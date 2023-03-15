@@ -5,7 +5,7 @@ Move position of the current tab to right or left.
 
 ## References
 
-[Create quick action that runs apple script and create keyboard shortcut](https://meta.stackexchange.com/questions/334041/how-long-do-the-share-links-last)
+[Create quick action that runs apple script and create keyboard shortcut](https://apple.stackexchange.com/questions/175215/how-do-i-assign-a-keyboard-shortcut-to-an-applescript-i-wrote)
 
 ## Instructions
 1. Create a quick action
