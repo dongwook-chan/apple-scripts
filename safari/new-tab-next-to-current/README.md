@@ -8,7 +8,8 @@ This method is applicable to new tabs spawned by pressing `⌘ + t` only.
 
 ### References
 
-[Create quick action that runs apple script and create keyboard shortcut](https://meta.stackexchange.com/questions/334041/how-long-do-the-share-links-last)
+[Write apple script to move new tab next to current one](https://daringfireball.net/2018/12/safari_new_tab_next_to_current_tab)
+[Create quick action that runs apple script and create keyboard shortcut](https://apple.stackexchange.com/questions/175215/how-do-i-assign-a-keyboard-shortcut-to-an-applescript-i-wrote)
 
 ### Instructions
 
